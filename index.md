@@ -7,7 +7,7 @@
 <body>
 ​
 <h2>Norwegian Mountain Trip</h2>
-<img border="0" src="/images/pulpit.jpg" alt="Pulpit rock" width="304" height="228">
+<img border="C:\Users\lenovo\Desktop" src="/QQ图片20181112203507.jpg" alt="Pulpit rock" width="304" height="228">
 ​
 </body>
 </html>
