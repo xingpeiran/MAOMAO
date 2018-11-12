@@ -6,7 +6,7 @@
 </head>
 <body>
 ​
-<h2>Norwegian Mountain Trip</h2>
+<h2>宝宝的照片</h2>
 <img border="/QQ图片20181112203507.jpg" src="/QQ图片20181112203507.jpg" alt="baobao" width="304" height="228">
 ​
 </body>
