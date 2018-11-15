@@ -7,7 +7,7 @@
 <body>
 ​
 <h2>宝宝的照片</h2>
-<img border="/QQ图片20181112203507.jpg" src="/QQ图片20181112203507.jpg" alt="baobao" width="304" height="228">
+<img  src="/time.jpg" alt="baobao" width="304" height="228">
 ​
 </body>
 </html>
